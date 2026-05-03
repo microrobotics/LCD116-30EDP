@@ -1,0 +1,2 @@
+# LCD116-30EDP
+LCD 11.6 inch 1366 x 768 30-Pin EDP Interface
